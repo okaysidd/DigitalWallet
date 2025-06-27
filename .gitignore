@@ -1,0 +1,50 @@
+# Java / Spring Boot build directories
+/target/
+/build/
+
+# Maven
+/.mvn/
+
+# Gradle
+/.gradle/
+
+# Compiled class files
+*.class
+
+# Package distribution files
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# IDE directories and project files
+/.idea/
+/.vscode/
+*.iml
+
+# Eclipse specific
+/.settings/
+*.classpath
+*.project
+
+# IntelliJ IDEA specific
+/out/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Environment files
+.env
+
+# Node.js (if present)
+/node_modules/
+
+# Test and coverage reports
+/coverage/
+
+# Distribution / build artifacts
+/dist/ 
